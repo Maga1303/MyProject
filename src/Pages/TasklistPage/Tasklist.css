@@ -1,15 +1,15 @@
 body{
     background-color:lightcoral;
 }
-form{
+/* form{
     width: 400px;
     height: 450px;
     border: 1px solid green;
     border-radius: 10px;
     margin: auto;
     text-align: center;
-}
-button{
+} */
+/* button{
     width: 300px;
     height: 50px;
     border-radius: 8px;
@@ -19,13 +19,12 @@ button{
     display: block;
     margin: auto;
     border: none;
-}
-input{
+} */
+/* input{
     margin: 20px;
     width: 300px;
     height: 50px;
     border-radius: 8px;
     border: none;
     text-align: center;
-    /* margin: auto; */
-}
+} */

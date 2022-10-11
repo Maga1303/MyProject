@@ -1,0 +1,10 @@
+.inputtitel{
+    height: 40px;
+    margin-top: 20px;
+    border:3px solid gray;
+    /* outline: none; */
+    border: none;
+}
+.inputtitlel:hover{
+    border:5px solid pink;
+}
