@@ -12,7 +12,7 @@ const About = () =>{
         <div className="wrap">
             <div className="card">
                 <div className="card-image">
-                    <img src={galactic} alt="galactic"/>
+                    <img src={galactic} alt="1"/>
                     <Title/>
                     <Likes/>
                 </div>
